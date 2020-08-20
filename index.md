@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 目前本页面不可用
 
 You can use the [editor on GitHub](https://github.com/j-stary/js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
