@@ -1,4 +1,3 @@
-# Memory-Records-of-Our-Junior-High-Life
-JS, ML, ZW 三der合一：私人空间，记录生活，回忆生活。
+# Leading-Pages
 
-平凡。
+##一个简单的导航页面，作为景星的个人主页。
