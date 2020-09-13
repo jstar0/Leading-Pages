@@ -1,8 +1,18 @@
 # 本页目前作为导航站
 
 ## 网站列表
-[导航站(本站)](jszw.ml)    [心纪元博客](mcxin.me)    [三年回忆（JS.ML.ZW)](im.jszw.ml)    [网盘(国内入口)](pan.jszw.ml)    [网盘(国际入口)](pan.imjs.ml)
-
+<center>
+[导航站(本站)](jszw.ml)
+</center><center>
+[心纪元博客](mcxin.me) 
+</center><center>
+[三年回忆(JS.ML.ZW)](im.jszw.ml)
+</center><center>
+[网盘(国内入口)](pan.jszw.ml)
+</center><center>
+[网盘(国际入口)](pan.imjs.ml)
+</center>
+****
 ### 本页支持 Markdown 语法
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
