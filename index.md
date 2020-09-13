@@ -1,10 +1,9 @@
-## 目前本页面不可用
+# 本页目前作为导航站
 
-You can use the [editor on GitHub](https://github.com/j-stary/js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 网站列表
+[心纪元博客](mcxin.me) &nbsp; [三年回忆（JS.ML.ZW)](im.jszw.ml)  &nbsp;[网盘(国内入口)](pan.jszw.ml)  &nbsp;[网盘(国际入口)](pan.imjs.ml)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 本页支持 Markdown 语法
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +27,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 本页基于 Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j-stary/js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 联系方式
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+可以直接联系QQ：[863268515](https://wpa.qq.com/msgrd?v=3&uin=863268515&site=qq&menu=yes)
