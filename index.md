@@ -1,7 +1,7 @@
 # 本页目前作为导航站
 
 ## 网站列表
-[导航站(本站)](jszw.ml)  &nbsp;[心纪元博客](mcxin.me) &nbsp; [三年回忆（JS.ML.ZW)](im.jszw.ml)  &nbsp;[网盘(国内入口)](pan.jszw.ml)  &nbsp;[网盘(国际入口)](pan.imjs.ml)
+[导航站(本站)](jszw.ml)    [心纪元博客](mcxin.me)    [三年回忆（JS.ML.ZW)](im.jszw.ml)    [网盘(国内入口)](pan.jszw.ml)    [网盘(国际入口)](pan.imjs.ml)
 
 ### 本页支持 Markdown 语法
 
